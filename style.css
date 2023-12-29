@@ -64,6 +64,7 @@
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border:none;
+    outline: none;
 }
 
 .search-input{
@@ -207,6 +208,7 @@ a{
 }
 a:hover{
     text-decoration: underline;
+    
 }
 
 /* second foot panel styles */
@@ -276,3 +278,9 @@ a:hover{
     color: white;
 }
 
+.zesus:hover{
+    color: #cccccc;
+}
+.effect:hover{
+    background-color: #cccccc;
+}
