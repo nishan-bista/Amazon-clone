@@ -234,7 +234,7 @@ a:hover{
     border-top: 1px solid white;
 }
 .logoF{
-    background: url("Amazon-Emblem.jpg");
+    background: url("1688364329amazon-logo-png-white.png");
     background-repeat: no-repeat;
     height: 100%;
     width:100%;
@@ -245,7 +245,7 @@ a:hover{
     height: 100px;
     width: 100px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .final{
     display: flex;
